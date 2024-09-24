@@ -2,7 +2,7 @@
 	File Name: errors.py
 	Author: Mr. Kalisz
 	Date Created: March 29, 2019
-	Date Last Edited: Sept 23, 2024
+	Date Last Edited: Sept 24, 2024
 '''
 
 # From input, recieve two integers from the user and add them together.  Output the result.
@@ -10,7 +10,7 @@ def q1():
   num1 = input("Input a number: ")
   num2 = input("Input a number: ")
   
-  Print(num + num2)
+  print(num1 + num2)
 
 # From input recieve two integers.  Output the quotient rounded down.
 
