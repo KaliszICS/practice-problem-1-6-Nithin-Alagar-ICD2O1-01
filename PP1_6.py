@@ -17,7 +17,6 @@ def q2():
   num1 = input("Input a number: ")
   num2 = input("Input a number: ")
   print(num1/num2)
-
 # Output the phrase "hello Mr. Kalisz have you seen my work yet?"
 
 def q3():
